@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: ScriptHere's Share Links On Social Media with Rich Snippets.
-Plugin URI: https://github.com/blogscripthere/custom_registration_fields
+Plugin URI: https://github.com/blogscripthere/ShareLinksOnSocialMedia
 Description: Simple Open Graph Tags and Twitter Cards to WordPress posts and pages.
 Author: Narendra Padala
 Author URI: https://in.linkedin.com/in/narendrapadala
